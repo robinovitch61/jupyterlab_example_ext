@@ -734,7 +734,7 @@
         "signature": "7a7e8dec050f4ad9d6b093812a3a203acb13a32364079db20f7a6fde38f8427c"
       },
       "/users/leo/projects/jupyterlab_example_ext/src/index.ts": {
-        "version": "9b384095f2220b548748a84cae07837e4985aece7962efdaa66f3a15ed144adf",
+        "version": "40cb6ff85a9a6315d63bf84f341e23d205b56fb292275bb2503e13543e2cd795",
         "signature": "3d39529da7247d165e674a29e0cd8b29e4104f3e9027d17fdc32fe378d24ffcc"
       }
     },
@@ -1575,7 +1575,8 @@
       "/users/leo/projects/jupyterlab_example_ext/src/index.ts": [
         "/users/leo/projects/jupyterlab_example_ext/node_modules/@jupyterlab/application/lib/index.d.ts",
         "/users/leo/projects/jupyterlab_example_ext/node_modules/@jupyterlab/apputils/lib/index.d.ts",
-        "/users/leo/projects/jupyterlab_example_ext/node_modules/@phosphor/widgets/lib/index.d.ts"
+        "/users/leo/projects/jupyterlab_example_ext/node_modules/@phosphor/widgets/lib/index.d.ts",
+        "/users/leo/projects/jupyterlab_example_ext/node_modules/@phosphor/messaging/lib/index.d.ts"
       ]
     },
     "exportedModulesMap": {
